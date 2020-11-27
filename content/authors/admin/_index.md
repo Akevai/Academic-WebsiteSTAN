@@ -22,6 +22,7 @@ interests:
 - Linguistic Typology
 - Language description and documentation
 - Language revitalisation 
+- Language variation and change
 - NLP for Indigenous languages
  
 
