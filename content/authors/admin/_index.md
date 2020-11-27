@@ -14,12 +14,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include all aspects of Polynesian linguistics 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pacific languages
+- Cook Islands Māori, Te Reo Māori o Aotearoa
+- Linguistic Typology
+- Language description and documentation
+- Language revitalisation 
+- NLP for Indigenous languages
+ 
+
 
 education:
   courses:
@@ -29,9 +34,9 @@ education:
   - course: MA in Maori Studies
     institution: University of Auckland
     year: 2010
-  - course: BA in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+ # - course: BA in Artificial Intelligence
+   # institution: Massachusetts Institute of Technology
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,5 +74,4 @@ user_groups:
 - Visitors
 ---
 
-ꞌAmata ʻōkina
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kia orana 
