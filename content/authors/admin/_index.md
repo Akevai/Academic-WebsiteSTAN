@@ -10,7 +10,7 @@ role: Lecturer in Linguistics
 
 # Organizations/Affiliations
 organizations:
-- name: Te Kungenga ki Pūrehuroa, Massey University 
+- name: Te Kunenga ki Pūrehuroa, Massey University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
