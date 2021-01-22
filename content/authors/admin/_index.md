@@ -11,7 +11,7 @@ role: Lecturer in Linguistics
 # Organizations/Affiliations
 organizations:
 - name: Te Kunenga ki Pūrehuroa, Massey University 
-  url: ""
+  url: "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=390550"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include all aspects of Polynesian linguistics 
@@ -32,7 +32,7 @@ education:
   - course: PhD in Māori Studies and Linguistics
     institution: University of Auckland
     year: 2017
-  - course: MA in Maori Studies
+  - course: MA in Māori Studies
     institution: University of Auckland
     year: 2010
  # - course: BA in Artificial Intelligence
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Kia orana 
+Kia orana tātou kātoatoa.
