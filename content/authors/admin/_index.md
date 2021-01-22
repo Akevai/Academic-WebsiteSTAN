@@ -52,7 +52,7 @@ social:
   link: "https://twitter.com/Te_Reo_KA"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=rsPLWKwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "s.nicholas@massey.ac.nz"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
