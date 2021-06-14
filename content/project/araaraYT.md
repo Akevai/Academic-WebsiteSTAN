@@ -1,6 +1,6 @@
 ---
 title: Araara Māori Kuki Airani Youtube Channel
-summary: An example of using the in-built project page.
+summary: Over 200 Videos. Mostlty in Māori (rar). Fun, education and fun education.
 tags:
 - Public Outreach
 date: "2021"
@@ -29,4 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-external_link: "https://www.youtube.com/channel/UCXow-aTZOg3hEkBYAz7F8Cw"
+#external_link: "https://www.youtube.com/channel/UCXow-aTZOg3hEkBYAz7F8Cw"
+
+Kia orana
