@@ -13,7 +13,7 @@ date: "2021"
 links:
 
 url_video: "https://youtu.be/QbGflAINDJU"
-
+url: https://sites.google.com/view/akevaiscm211page/k%C4%81inga
 
 
 # Slides (optional).
