@@ -12,7 +12,7 @@ date: "2021"
 
 links:
 
-url_video: "https://www.youtube.com/watch?v=SY\_kjN4pmVI&t=179s"
+url_video: "https://www.youtube.com/watch?v=SY%kjN4pmVI&t=179s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
