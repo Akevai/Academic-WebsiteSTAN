@@ -12,7 +12,7 @@ date: "2021"
 
 links:
 
-url_video: "https://youtu.be/SY\_kjN4pmVI"
+url_video: "https://www.youtube.com/watch?v=SY\_kjN4pmVI&t=179s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -21,4 +21,3 @@ url_video: "https://youtu.be/SY\_kjN4pmVI"
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
