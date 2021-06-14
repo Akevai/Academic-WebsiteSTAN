@@ -24,4 +24,5 @@ url_video: "https://youtu.be/QbGflAINDJU"
 slides: example
 ---
 
-url: "https://youtu.be/SY\_\k\jN4pmVI"
+
+external_link: "https://sites.google.com/view/akevaiscm211page/k%C4%81inga"
