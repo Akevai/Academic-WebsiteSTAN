@@ -14,7 +14,7 @@ links:
 
 url_video: "https://youtu.be/QbGflAINDJU"
 
-url_video: "https://youtu.be/SY\_\k\jN4pmVI"
+url_video2: "https://youtu.be/SY\_\k\jN4pmVI"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
